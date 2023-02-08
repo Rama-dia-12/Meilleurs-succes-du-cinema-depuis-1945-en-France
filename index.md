@@ -1,5 +1,5 @@
-# Le temps de parole des femmes à la radio de 1995 à 2019
-## Une visualisation réalisée à partir d'un jeu de données produit par l'INA
+# Les meilleures audiences dans les salles de cinéma françaises
+## Une visualisation réalisée à partir d'un jeu de données produit par le CNC
 
-*Ce travail aura pour but de présenter une visualisation dynamique de données concernant l'évolution du temps de parole des femmes sur les chaînes de radio françaises, sur une période s'étendant de 1995 à 2019.*
+*Ce travail aura pour but de présenter des visualisations dynamiques de données concernant les audiences des films les plus plébiscités dans les salles françaises, sur une période s'étendant de 1945 à 2021.*
 
